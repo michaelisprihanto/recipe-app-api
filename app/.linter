@@ -1,4 +1,4 @@
-[linter-flake8]
+[linter]
 exclude =
   migrations
   __pycache__,
